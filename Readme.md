@@ -1,3 +1,7 @@
-# <center> Just thinking? Nah — we’re cooking</center>
+## Hi there 👋
 
-<center><img src="smoking.jpg" /></center>
+📚 Currently working in quantitative finance and AI
+
+🌱 Preferred languages: Rust, Python, and Typescript
+
+![m](github-metrics.svg)
